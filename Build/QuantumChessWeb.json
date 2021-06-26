@@ -1,0 +1,19 @@
+{
+"companyName": "Quantum Realm Games",
+"productName": "Quantum Chess",
+"productVersion": "0.36",
+"dataUrl": "QuantumChessWeb.data.unityweb",
+"asmCodeUrl": "QuantumChessWeb.asm.code.unityweb",
+"asmMemoryUrl": "QuantumChessWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "QuantumChessWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "QuantumChessWeb.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
